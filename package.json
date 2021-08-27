@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/xhickeng/legendary-telegram.git",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
